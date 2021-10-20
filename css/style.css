@@ -1,0 +1,30 @@
+.media-main a.pull-left {
+    width: 100px; 
+}
+
+.p-t-10 {
+    padding-top: 10px !important;
+}
+
+.thumb-lg {
+    height: 84px;
+    width: 84px;
+}
+
+.media-main .info h4 {
+    overflow: hidden;
+    margin-bottom: 5px;
+}
+
+.social-links li a {
+    background: #EFF0F4;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    display: inline-block;
+    margin-right: 10px;
+    border-radius: 50%;
+        -webkit-box-radius: 50%;
+    color: #7A7676;
+}
